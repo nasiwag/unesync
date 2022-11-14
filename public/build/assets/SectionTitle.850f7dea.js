@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as a,a as t,e as s}from"./app.7f0e9691.js";const r={},n={class:"px-4 md:px-0 md:col-span-1"},l={class:"text-lg font-bold text-gray-900"},_={class:"mt-1 text-gray-600"};function d(e,i){return c(),a("div",n,[t("h3",l,[s(e.$slots,"title")]),t("p",_,[s(e.$slots,"description")])])}var m=o(r,[["render",d]]);export{m as T};

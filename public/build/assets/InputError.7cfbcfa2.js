@@ -1,0 +1,1 @@
+import{_ as s,i as t,j as a,o as c,c as r,a as o,t as n}from"./app.7f0e9691.js";const i={props:["message"]},_={class:"max-w-full"},m={class:"text-sm text-red-600 truncate"};function d(l,p,e,f,u,x){return t((c(),r("div",_,[o("p",m,n(e.message?e.message.replace(" id",""):""),1)],512)),[[a,e.message]])}var h=s(i,[["render",d]]);export{h as T};
